@@ -10,16 +10,16 @@
 | Multiple user support | **Yes** | **No** | **No** | **No** |
 
 
-**Principales diferencias de MediCare Calendar:**
+**Main Differences of MediCare Calendar:**
 
--   **MediCare Calendar es la única aplicación que ofrece advertencias sobre interacciones medicamentosas.** Esta es una característica muy importante para las personas que toman varios medicamentos.
--   **MediCare Calendar permite a los usuarios llevar un registro detallado de su consumo de medicamentos, que se puede compartir con los profesionales de la salud.** Esta es una herramienta muy valiosa para controlar el cumplimiento del tratamiento e identificar cualquier problema potencial.
--   **MediCare Calendar proporciona información completa sobre cada medicamento, incluidas las descripciones, los efectos secundarios comunes y las pautas generales de uso.** Esto ayuda a los usuarios a comprender mejor sus tratamientos y a tomar decisiones informadas sobre su salud.
+-   **MediCare Calendar is the only app that provides warnings about drug interactions.** This is a crucial feature for individuals taking multiple medications.
+-   **MediCare Calendar allows users to keep a detailed record of their medication intake that can be shared with healthcare professionals.** This is a valuable tool for monitoring treatment compliance and identifying potential issues.
+-   **MediCare Calendar provides comprehensive information about each medication, including descriptions, common side effects, and general usage guidelines.** This helps users better understand their treatments and make informed decisions about their health.
 
-En general, MediCare Calendar es la aplicación de gestión de medicamentos más completa y fácil de usar del mercado. Ofrece una variedad de características y beneficios que no se encuentran en otras aplicaciones, lo que la convierte en la opción ideal para cualquier persona que necesite llevar un registro de sus medicamentos.
+Overall, MediCare Calendar is the most comprehensive and user-friendly medication management app on the market. It offers a variety of features and benefits not found in other apps, making it the ideal choice for anyone needing to keep track of their medications.
 
-**Comparación con las aplicaciones específicas mencionadas:**
+**Comparison with the specific apps from La Vanguardia's page:**
 
--   **Medisafe:** Medisafe es una aplicación de gestión de medicamentos muy popular que ofrece muchas de las mismas características que MediCare Calendar, como el seguimiento de la medicación, los recordatorios y alarmas personalizados y la información detallada sobre los medicamentos. Sin embargo, Medisafe no ofrece advertencias sobre interacciones medicamentosas ni permite a los usuarios llevar un registro detallado de su consumo de medicamentos.
--   **MyTherapy:** MyTherapy es otra aplicación de gestión de medicamentos muy popular. Ofrece muchas de las mismas características que MediCare Calendar, como el seguimiento de la medicación, los recordatorios y alarmas personalizados y la información detallada sobre los medicamentos. Sin embargo, MyTherapy no ofrece advertencias sobre interacciones medicamentosas ni permite a los usuarios llevar un registro detallado de su consumo de medicamentos.
--   **Pill Reminder:** Pill Reminder es una aplicación de gestión de medicamentos muy simple. Permite a los usuarios establecer recordatorios para tomar sus medicamentos, pero no ofrece ninguna otra función, como el seguimiento de la medicación, las advertencias sobre interacciones medicamentosas o la información detallada sobre los medicamentos.
+-   **Medisafe:** Medisafe is a highly popular medication management app that offers many of the same features as MediCare Calendar, such as medication tracking, customized reminders and alarms, and detailed medication information. However, Medisafe does not provide warnings about drug interactions or the ability for users to keep a detailed record of their medication intake.
+-   **MyTherapy:** MyTherapy is another widely used medication management app. It offers many of the same features as MediCare Calendar, such as medication tracking, customized reminders and alarms, and detailed medication information. However, MyTherapy does not provide warnings about drug interactions or the ability for users to keep a detailed record of their medication intake.
+-   **Pill Reminder:** Pill Reminder is a very basic medication management app. It allows users to set reminders for taking their medications but does not offer any other features such as medication tracking, warnings about drug interactions, or detailed medication information.
