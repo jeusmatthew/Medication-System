@@ -1,4 +1,4 @@
-**Product Name:** MediCare Calendar
+**Product Name:** MediCare Calendar (CHECAAAARRRR)
 
 **Product Description:**
 
