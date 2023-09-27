@@ -15,51 +15,29 @@
 | RF-10 | Al seleccionar la repeticion de la dosis por horas nos generará otro apartado para ingresar durante cuanto tiempo vamos a realizar ese proceso de repetición (dias o semanas)| Alta | /// |
 | RF-11 | Al seleccionar la repeticion por dias se generará un apartado para ingresar cuantas veces se realizará esa repetición | Alta | /// |
 | RF-12 | La pestaña de la creación de dosis del medicamente incluirá un boton para finalizar y proceder con la información proporcionada | Alta | /// |
-| RF-12 | El programa debe permitir a los usuarios gestionar individualmente los medicamentos de la lista para gestionar el tratamiento en el calendario  | Alta | /// |
-| RF-13 | El programa creará a través del calendario alarmas para el tratamiento oral de las dosificaciones | Media | /// |
-| RF-14 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-15 | El programa reproducirá un sonido alarmante al momento de la ejecución de la alarma | Alta | /// |
-| RF-6 | El programa permitirá seleccionar del listado de medicamentos agregados un mendicamento | Alta | /// |
-| RF-7 | El programa al seleccionar un medicamento del listado  | Alta | /// |
-| RF-8 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-9 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-10 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-11 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-12 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-13 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-14 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
+| RF-13 | El programa debe permitir a los usuarios gestionar individualmente los medicamentos de la lista para gestionar el tratamiento en el calendario  | Alta | /// |
+| RF-14 | El programa creará a través del calendario alarmas para el tratamiento oral de las dosificaciones | Media | /// |
 | RF-15 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-16 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-17 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
-| RF-4 | El programa ejecturá una alarma de acuerdo a su creación generando una pantalla visual en el dispositivo | Alta | /// |
+| RF-16 | El programa reproducirá un sonido alarmante al momento de la ejecución de la alarma | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
+| RF- |  | Alta | /// |
