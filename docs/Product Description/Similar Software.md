@@ -16,9 +16,9 @@
 -   **MediCare Calendar allows users to keep a detailed record of their medication intake that can be shared with healthcare professionals.** This is a valuable tool for monitoring treatment compliance and identifying potential issues.
 -   **MediCare Calendar provides comprehensive information about each medication, including descriptions, common side effects, and general usage guidelines.** This helps users better understand their treatments and make informed decisions about their health.
 
-Overall, MediCare Calendar is the most comprehensive and user-friendly medication management app on the market. It offers a variety of features and benefits not found in other apps, making it the ideal choice for anyone needing to keep track of their medications.
+Overall, MediCare Calendar will be the most comprehensive and user-friendly medication management app on the market. It will offer a variety of features and benefits not found in other apps, making it the ideal choice for anyone needing to keep track of their medications.
 
-**Comparison with the specific apps from La Vanguardia's page:**
+**Comparison with specific apps:**
 
 -   **Medisafe:** Medisafe is a highly popular medication management app that offers many of the same features as MediCare Calendar, such as medication tracking, customized reminders and alarms, and detailed medication information. However, Medisafe does not provide warnings about drug interactions or the ability for users to keep a detailed record of their medication intake.
 -   **MyTherapy:** MyTherapy is another widely used medication management app. It offers many of the same features as MediCare Calendar, such as medication tracking, customized reminders and alarms, and detailed medication information. However, MyTherapy does not provide warnings about drug interactions or the ability for users to keep a detailed record of their medication intake.
