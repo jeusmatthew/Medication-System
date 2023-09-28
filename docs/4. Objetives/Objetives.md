@@ -2,7 +2,7 @@
 
 | *General Objective* |
 |----------------------|
-| Facilitate precise management and tracking of medical treatments, improve medication adherence, ensuring proper usage, and contribute to the health and well-being of users. |
+| Facilitate the management and accurate monitoring of medical treatments, improve medication adherence, guaranteeing proper use and contributing to the health of users through reliable medical information. |
 
 | *Specific Objectives*                                                                                     |
 |------------------------------------------------------------------------------------------------------------|
