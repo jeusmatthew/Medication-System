@@ -1,35 +1,32 @@
-# Bitácora Scrum - [Nombre del Proyecto]
-Fecha: 27/09/2023
-
-Scrum Master: Raul Alejandro Magaña Flores 
-
-Product Owner: comunidad adulta no médica 
-
-Equipo de Desarrollo: 
+# Scrum Log - [Project Name]
+Date: 09/27/2023
+Scrum Master: Raul Alejandro Magaña Flores
+Product Owner: Non-Medical Adult Community
+Development Team:
 - Jimena Guadalupe García Ríos.
 - Raul Alejandro Magaña Flores.
 - Jesus Mateo Ortiz Chay.
 
-## Resumen del Día
-El día de hoy fue el tercer día del proyecto de desarrollo de software. Durante la reunión de Planificación del Sprint, se discutieron elementos del backlog del producto y se seleccionaron las tareas para el próximo sprint. El equipo decidió abordar lo siguiente:
-1. Descripción del producto.
-2. Propuesta de valor.
-3. Requisitos no funcionales.
-4. Descripción del proceso.
+## Daily Summary
+Today marks the third day of the software development project. During the Sprint Planning meeting, elements of the product backlog were discussed, and tasks for the upcoming sprint were selected. The team decided to address the following:
+1. Product description.
+2. Value proposition.
+3. Non-functional requirements.
+4. Process description.
 
-En la Daily Scrum, el equipo compartió avances sobre sus tareas hasta el momento:
-- Se avanzó en la determinación de los requisitos funcionales y los no funcionales se terminaron.
-- Se terminó con la descripción del producto, se avanzó con la propuesta de valor.
+In the Daily Scrum, the team shared progress on their tasks so far:
+- Progress was made in determining functional requirements, and non-functional ones were completed.
+- The product description was finished, and progress was made with the value proposition.
 
-A pesar de la preparación del equipo, se encontraron algunos obstáculos para la definición de los requisitos funcionales, se acordó que el equipo buscará información y se centrará en la finalización de este primer draft.
+Despite the team's preparation, some obstacles were encountered in defining functional requirements, and it was agreed that the team would seek information and focus on finalizing this first draft.
 
-No se llevó a cabo una Revisión del Sprint, ya que el primer incremento del producto aún no está listo.
+A Sprint Review was not conducted as the first product increment is not yet ready.
 
-En la Retrospectiva del Sprint en este día, el equipo discutió la finalización de la documentación, y se delegaron otras tareas como la finalización de la propuesta de valor y los requisitos funcionales.
+In today's Sprint Retrospective, the team discussed the completion of documentation, and other tasks were delegated, such as finalizing the value proposition and functional requirements.
 
-## Compromisos para el próximo sprint
-- Se terminarán la lista de requerimientos funcionales.
-- Continuar con la propuesta de valor y descripción del proceso.
+## Commitments for the Next Sprint
+- Functional requirements list will be completed.
+- Continue with the value proposition and process description.
 
-## Otros Comentarios
-Se acordó llevar a cabo la próxima Daily Scrum el día de mañana a la misma hora, así como la terminación de cada tarea asignada.
+## Other Comments
+It was agreed to hold the next Daily Scrum tomorrow at the same time, as well as the completion of each assigned task.
