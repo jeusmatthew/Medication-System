@@ -1,27 +1,27 @@
-# Requerimientos no funcionales
+# Non-Functional Requirements
 
-## Producto
+## Product
 
-ID|Descripción del Requisito|Prioridad|Estado
+ID|Requirement Description|Priority|Status
 -|-|-|-
-RNF-1 confiabilidad|El sistema incorporará al menos un 90% del total de medicamentos disponibles en el mercado mexicano.|Alta|///
-RNF-2 confiabilidad|La información erronea de los medicamentos deberá ser menor al 1%.|Alta|///
-RNF-3 confiabilidad| La base de datos de medicamentos deberá haber sido revisada por al menos una organización especializada en salud.| Alta | /// |
-RNF-4 usabilidad|Después de cinco minutos los usuarios deberían poder usar la aplicación con al menos un cuadro de ayuda cada 15 minutos.|Media|///
-RNF-5 eficiencia|El tiempo de carga del inicio no debe superar los 5 segundos.|Media|///
-RNF-6 rendimiento|La lista de búsqueda deberá procesar 500 elementos por segundo|Baja|///
+RNF-1 reliability|The system will incorporate at least 90% of the total medications available in the Mexican market.|High|///
+RNF-2 reliability|Incorrect medication information should be less than 1%.|High|///
+RNF-3 reliability|The medication database must have been reviewed by at least one specialized healthcare organization.|High|///|
+RNF-4 usability|Users should be able to use the application after five minutes with at least one help pop-up every 15 minutes.|Medium|///
+RNF-5 efficiency|The initial loading time must not exceed 5 seconds.|Medium|///
+RNF-6 performance|The search list should process 500 items per second.|Low|///
 
-## Organización
+## Organization
 
-ID|Descripción del Requisito|Prioridad|Estado
+ID|Requirement Description|Priority|Status
 -|-|-|-
-RNF-7 desarrollo| La aplicación será compatible con dispositivos Android.| Alta | /// |
-RNF-8 desarrollo|El sistema deberá ser compatible con el 90% de dispositivos Android.|Alto|///
-RNF-9 desarrollo|El proyecto debe hacer uso de la API Level 33 o mayor de Android.|Medio|///
+RNF-7 development|The application will be compatible with Android devices.|High|///|
+RNF-8 development|The system should be compatible with 90% of Android devices.|High|///
+RNF-9 development|The project must use Android API Level 33 or higher.|Medium|///
 
-## Externos
+## External
 
-ID|Descripción del Requisito|Prioridad|Estado|
+ID|Requirement Description|Priority|Status|
 --- | ------------------------------------ | --------- | ------
-RNF-10 legal|Se deberá contar con los permisos de las farmacéuticas para utilizar los nombres comerciales de los medicamentos de al menos el 99% del total disponible en la base de datos.|Alta|///
-RNF-11 regulatorio|Se deberá efectuar la validación del software considerado como dispositivo médico conforme a la FEUM o al inciso 11.17 de la NOM-241-SSA1-2021 el cual nos dice que se puede utilizar como apoyo para realizar tanto la calificación como la validación, las guías nacionales o las guías internacionales que están descritas en esta norma.|Alta|///
+RNF-10 legal|Permissions from pharmaceutical companies should be obtained to use the trade names of medications for at least 99% of the total available in the database.|High|///
+RNF-11 regulatory|Validation of the software as a medical device according to FEUM or section 11.17 of NOM-241-SSA1-2021 should be performed, which allows for the use of national or international guidelines described in this standard for both qualification and validation purposes.|High|///
