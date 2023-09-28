@@ -1,31 +1,45 @@
-# Software Description
+In the current healthcare context, effective medication management is crucial to ensure the health and well-being of patients. With this goal in mind, we have embarked on the development of an innovative "Medication Management System." Our main objective is to significantly improve the user experience in administering their medications by providing accurate information and timely reminders about prescribed doses.
 
-**Product Name:** 
+# Project Description:
 
-**Product Description:**
+The "Medication Management System" we are developing is a comprehensive solution designed to empower users in managing their medical treatment. Below is a detailed description of how this system will transform the way people approach their health:
 
-MediCare Calendar is an innovative software application designed to streamline the management of medications efficiently and securely. This medication calendar is designed to help individuals maintain a strict control over their medical treatments, ensuring they take their medications according to medical prescriptions and avoiding missed doses.
+#### **Efficient Access to Crucial Information**:
 
-**Key Features:**
+Our system will provide users with easy and quick access to vital information about their medications. This will include details about doses, administration schedules, possible interactions, and side effects.
 
-1. **Medication Interaction:** MediCare Calendar provides warnings about potential medication interactions. If a user is taking multiple medications, the application will alert about possible conflicts and offer recommendations to avoid health issues.
+Users will be able to access this information anytime, anywhere through an intuitive mobile application or user-friendly web interface. They will no longer have to rely on messy paper records or consult multiple online sources for information about their medications.
 
-2. **Medication History:** The application records a complete history of medication intake, allowing users to keep a detailed record of their treatment compliance. This feature is especially useful for sharing information with healthcare professionals.
+#### **Comprehensive Historical Record**:
 
-3. **Detailed Medication Information:** MediCare Calendar provides comprehensive information about each medication, including descriptions, common side effects. This helps users better understand their treatments.
+The system will allow users to maintain a complete and detailed historical record of the medications they have used in the past and those they are currently taking. This will be especially valuable for those who require long-term treatments or have multiple medical conditions.
 
-4. **Medication Tracking:** MediCare Calendar allows users to easily input information about their medications, including the medication name, prescribed dosage, frequency, and treatment duration.
+This historical record will serve as an essential tool for patients, facilitating precise tracking of treatment evolution and enabling adjustments as needed.
 
-5. **Custom Reminders and Alarms:** The application generates personalized reminders and alarms based on the prescribed dosage, schedule, and frequency of each medication. These alerts help users remember when to take their medications, ensuring they follow their treatment properly.
+#### **Personalized Reminders**:
 
-**Benefits:**
+Proper dose administration is essential for the effectiveness of any medical treatment. Our system will provide personalized and configurable reminders to ensure users never forget to take their medications on time.
 
-- **Increased Medical Knowledge:** Offers detailed information about medications, empowering users to make informed decisions about their health.
+These reminders will adapt to the specific needs of each user, taking into account schedules and doses. Alerts for missed doses will also be considered.
 
-- **Facilitates Communication with Healthcare Providers:** The medication history recorded in the application makes it easier to communicate with healthcare professionals.
+#### **Extensive PLM VADECUM Database**:
 
-- **Enhanced Treatment Adherence:** Assists users in taking their medications on time, improving the effectiveness of medical treatments.
+We will integrate an extensive PLM VADECUM database containing up-to-date information on a wide variety of medications. This will ensure that users have access to accurate and reliable data about their medications.
 
-- **Error Reduction:** Prevents medication errors by providing alerts and warnings about potential interactions.
+### **Project Scope**:
 
-MediCare Calendar is an essential tool for anyone who requires precise tracking of their medical treatments. With its intuitive features and security functions, this application ensures that users take their medications properly, promoting a better quality of life and health.
+Development of a user-friendly interface for mobile and web applications.
+Integration of the PLM VADECUM database to access detailed information about medications.
+Implementation of a medication and dose tracking system.
+Configuration of personalized reminders and notifications.
+Development of a secure platform and protection of sensitive medical data.
+Launch and distribution of the system through app stores and web platforms.
+
+### Project Limitations:
+
+The platform will not provide medical advice or diagnoses; this information should be obtained from a healthcare professional.
+The accuracy of medication information will depend on the PLM VADECUM database and the updating of its contents.
+The system does not replace medical consultation or direct medical supervision for serious medical conditions.
+The availability and compatibility of the application may be limited by technical and hardware factors of users' devices.
+
+In summary, the "Medication Management System" aims to revolutionize medication management, empowering users to take control of their health. It will provide access to crucial information, comprehensive historical records, and personalized reminders, all supported by an extensive PLM VADECUM database. However, it is important to consider the limitations and remember that this system does not substitute professional medical advice.
