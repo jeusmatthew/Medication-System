@@ -1,7 +1,6 @@
 # Scrum Log - [Project Name]
 
 **Date:** 09/26/2023
-
 **Scrum Master:** Raul Alejandro Magaña Flores
 **Product Owner:** Non-medical adult community
 **Development Team:**
