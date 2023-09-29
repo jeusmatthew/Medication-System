@@ -16,4 +16,8 @@ Artefactos: Se incluyen como evidencia artefactos que especifican los Requisitos
 
 ![text](assets/calendarUC.svg)
 
+### Search system
+
+![alt](assets/searchUC.svg)
+
 ## User stories with acceptance criteria
