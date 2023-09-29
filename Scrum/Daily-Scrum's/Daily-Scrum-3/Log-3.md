@@ -1,8 +1,8 @@
 # Scrum Log - [Project Name]
-Date: 09/27/2023
-Scrum Master: Raul Alejandro Magaña Flores
-Product Owner: Non-Medical Adult Community
-Development Team:
+**Date:** 09/27/2023
+**Scrum Master:** Raul Alejandro Magaña Flores
+**Product Owner:** Non-medical adult community
+**Development Team:**
 - Jimena Guadalupe García Ríos.
 - Raul Alejandro Magaña Flores.
 - Jesus Mateo Ortiz Chay.
