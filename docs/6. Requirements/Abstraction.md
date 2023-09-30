@@ -4,6 +4,7 @@
 
 ```mermaid
 classDiagram
+    classDiagram
     class AlarmSystem {
         
     }
@@ -12,9 +13,6 @@ classDiagram
 
     }
 
-    class App{
-
-    }
 
     class SearchSystem{
 
@@ -52,10 +50,10 @@ classDiagram
 
     AlarmSystem--CalendarSystem
 
-    App..>AlarmSystem
-    App..>Database
-    App..>SearchSystem
-    App..>CalendarSystem
+    %% App..>AlarmSystem
+    %% App..>Database
+    %% App..>SearchSystem
+    %% App..>CalendarSystem
 
     MedicamentDosage..>Medicament
 
