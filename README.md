@@ -2,7 +2,7 @@
 
 ## Application Name
 
-## Introductiona
+## Introduction
 
 In the current healthcare context, effective medication management is crucial to ensure the health and well-being of patients. With this goal in mind, we have embarked on the development of an innovative "Medication Management System." Our main objective is to significantly improve the user experience in administering their medications by providing accurate information and timely reminders about prescribed doses.
 
