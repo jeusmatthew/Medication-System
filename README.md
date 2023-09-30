@@ -1,45 +1,45 @@
-# Proyecto-POO
+# Medication-System
 
-# Nombre de la Aplicación
+## Nombre de la Aplicación
 
 ## Introducción
 
-Breve introducción a la aplicación y su propósito. Puedes mencionar la necesidad o el problema que resuelve tu aplicación.
+In the current healthcare context, effective medication management is crucial to ensure the health and well-being of patients. With this goal in mind, we have embarked on the development of an innovative "Medication Management System." Our main objective is to significantly improve the user experience in administering their medications by providing accurate information and timely reminders about prescribed doses.
 
 ## Descripción
 
-Una descripción más detallada de la aplicación, incluyendo sus características clave y su valor para los usuarios.
+Our system will provide users with easy and quick access to vital information about their medications. This will include details about doses, administration schedules, possible interactions, and side effects.
+
+Users will be able to access this information anytime, anywhere through an intuitive mobile application or user-friendly web interface. They will no longer have to rely on messy paper records or consult multiple online sources for information about their medications.
 
 ## Objetivos
 
-Enumera los objetivos principales de la aplicación. Puedes separarlos en objetivos generales y objetivos específicos, como se mencionó anteriormente.
 
 ### Objetivos Generales
 
-- Objetivo 1
-- Objetivo 2
-- ...
+- Facilitate the management and accurate monitoring of medical treatments, improve medication adherence, guaranteeing proper use and contributing to the health of users through reliable medical information.
 
 ### Objetivos Específicos
 
-- Objetivo específico 1
-- Objetivo específico 2
-- ...
-
-## Demo
-
-Añade un enlace a una demostración en vivo o capturas de pantalla de tu aplicación.
-
-## Instalación
-
-Proporciona instrucciones claras sobre cómo instalar tu aplicación.
-
-## Uso
-
-Describe cómo se utiliza tu aplicación y proporciona ejemplos de código si es necesario.
+- Develop a software application: Create an application enabling users to manage and track their medical treatments.
+- Provide a medication log: Allow users to record detailed information about their medications, including name, dosage, frequency, and treatment duration.
+- Generate custom reminders and alarms: Configure the application to generate specific reminders and alarms for each medication, based on prescribed dosage and schedule.
+- Enhance treatment adherence: Assist users in taking their medications as prescribed, reducing missed doses and errors.
+- Empower users to make informed health decisions: Supply comprehensive medication information to help users better understand their treatments and make informed choices about their health.
 
 ## Características
 
-Enumera las principales características de tu aplicación.
+1. Comprehensive Historical Record:
+    The system will allow users to maintain a complete and detailed historical record of the medications they have used in the past and those they are currently taking. This will be especially valuable for those who require long-term treatments or have multiple medical conditions.
+
+2. This historical record will serve as an essential tool for patients,     facilitating precise tracking of treatment evolution and enabling adjustments as needed.
+
+3. Personalized Reminders:
+    Proper dose administration is essential for the effectiveness of any medical treatment. Our system will provide personalized and configurable reminders to ensure users never forget to take their medications on time.
+
+4. These reminders will adapt to the specific needs of each user, taking into account schedules and doses. Alerts for missed doses will also be considered.
+
+5. Extensive PLM VADECUM Database:
+    We will integrate an extensive PLM VADECUM database containing up-to-date information on a wide variety of medications. This will ensure that users have access to accurate and reliable data about their medications.
 
 
