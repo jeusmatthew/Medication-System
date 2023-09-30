@@ -1,6 +1,7 @@
 # Medication-System
 
 ## Application Name
+DoseWise
 
 ## Introduction
 
