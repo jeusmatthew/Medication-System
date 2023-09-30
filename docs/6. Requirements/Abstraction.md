@@ -3,7 +3,6 @@
 ## Class Diagram
 
 ```mermaid
-classDiagram
     classDiagram
     class AlarmSystem {
         
@@ -13,9 +12,6 @@ classDiagram
 
     }
 
-%%    class App{
-
-  %%  }
 
     class SearchSystem{
 
