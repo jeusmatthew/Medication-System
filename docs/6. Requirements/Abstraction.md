@@ -4,6 +4,7 @@
 
 ```mermaid
 classDiagram
+    classDiagram
     class AlarmSystem {
         
     }
