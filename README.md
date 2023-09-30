@@ -1,25 +1,24 @@
 # Medication-System
 
-## Nombre de la Aplicación
+## Application Name
 
-## Introducción
+## Introductiona
 
 In the current healthcare context, effective medication management is crucial to ensure the health and well-being of patients. With this goal in mind, we have embarked on the development of an innovative "Medication Management System." Our main objective is to significantly improve the user experience in administering their medications by providing accurate information and timely reminders about prescribed doses.
 
-## Descripción
+## Description
 
 Our system will provide users with easy and quick access to vital information about their medications. This will include details about doses, administration schedules, possible interactions, and side effects.
 
 Users will be able to access this information anytime, anywhere through an intuitive mobile application or user-friendly web interface. They will no longer have to rely on messy paper records or consult multiple online sources for information about their medications.
 
-## Objetivos
+## Objectives
 
-
-### Objetivos Generales
+### General Objectives
 
 - Facilitate the management and accurate monitoring of medical treatments, improve medication adherence, guaranteeing proper use and contributing to the health of users through reliable medical information.
 
-### Objetivos Específicos
+### Specific Objectives
 
 - Develop a software application: Create an application enabling users to manage and track their medical treatments.
 - Provide a medication log: Allow users to record detailed information about their medications, including name, dosage, frequency, and treatment duration.
@@ -27,7 +26,7 @@ Users will be able to access this information anytime, anywhere through an intui
 - Enhance treatment adherence: Assist users in taking their medications as prescribed, reducing missed doses and errors.
 - Empower users to make informed health decisions: Supply comprehensive medication information to help users better understand their treatments and make informed choices about their health.
 
-## Características
+## Features
 
 1. Comprehensive Historical Record:
     The system will allow users to maintain a complete and detailed historical record of the medications they have used in the past and those they are currently taking. This will be especially valuable for those who require long-term treatments or have multiple medical conditions.
