@@ -42,4 +42,21 @@ Users will be able to access this information anytime, anywhere through an intui
 5. Extensive PLM VADECUM Database:
     We will integrate an extensive PLM VADECUM database containing up-to-date information on a wide variety of medications. This will ensure that users have access to accurate and reliable data about their medications.
 
+# First Assignment
+## Product
 
+- [Project Description](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/1.%20Product/Software%20Description.md)
+- [Value of the Proposal](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/1.%20Product/Value%20of%20the%20Proposal.md)
+
+## Requirements
+
+- [Functional Requirements](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/2.%20Requirements/Functional%20requirements.md)
+- [Non Functional Requirements](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/2.%20Requirements/Non%20functional%20Requirements.md)
+- [Artifacts](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/2.%20Requirements/Artifacts.md)
+- [Abstraction](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/2.%20Requirements/Abstraction.md)
+
+## Process
+
+- [Process Description](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/3.%20Process%20Description/Process%20Description.md)
+- [Project Management](https://github.com/jeusmatthew/Medication-System/tree/main/Primera%20Entrega/3.%20Process%20Description/Scrum/Daily-Scrum's)
+- [Individual Contribution Metrics](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/3.%20Process%20Description/Individual%20Contribution%20Metric.md)
