@@ -56,6 +56,8 @@ Users will be able to access this information anytime, anywhere through an intui
 - [Artifacts](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/2.%20Requirements/Artifacts.md)
 - [Abstraction](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/2.%20Requirements/Abstraction.md)
 
+- [Priorization](/Primera%20Entrega/2.%20Requirements/Priorization.md)
+
 ## Process
 
 - [Process Description](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/3.%20Process%20Description/Process%20Description.md)
@@ -67,4 +69,5 @@ Users will be able to access this information anytime, anywhere through an intui
 - [Evidence](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a19203731_alumnos_uady_mx/Eb_iCqTPoL5Gl1Sn6oZBrSQBZ8hrlvhKUMsrC0VUNkLRvg?e=0U2yI2)
 
 ## Lista de cotejo
+
 - [Lista de cotejo.xlsx](/Primera%20Entrega/Lista%20de%20cotejo.xlsx)
