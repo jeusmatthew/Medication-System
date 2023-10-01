@@ -1,4 +1,4 @@
-# Requisitos Funcionales
+# Functional Requirements 
 
 | ID   | Requirement Description                                             | MoSCoW Priority   |
 | ---- | -------------------------------------------------------------------- | ----------------- |
