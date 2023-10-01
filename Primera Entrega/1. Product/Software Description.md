@@ -1,5 +1,9 @@
 In the current healthcare context, effective medication management is crucial to ensure the health and well-being of patients. With this goal in mind, we have embarked on the development of an innovative "Medication Management System." Our main objective is to significantly improve the user experience in administering their medications by providing accurate information and timely reminders about prescribed doses.
 
+| *General Objective* |
+|----------------------|
+| Facilitate the management and accurate monitoring of medical treatments, improve medication adherence, guaranteeing proper use and contributing to the health of users through reliable medical information. |
+
 # Project Description:
 
 The "Medication Management System" we are developing is a comprehensive solution designed to empower users in managing their medical treatment. Below is a detailed description of how this system will transform the way people approach their health:
