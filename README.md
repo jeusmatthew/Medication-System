@@ -60,3 +60,7 @@ Users will be able to access this information anytime, anywhere through an intui
 - [Process Description](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/3.%20Process%20Description/Process%20Description.md)
 - [Project Management](https://github.com/jeusmatthew/Medication-System/tree/main/Primera%20Entrega/3.%20Process%20Description/Scrum/Daily-Scrum's)
 - [Individual Contribution Metrics](https://github.com/jeusmatthew/Medication-System/blob/main/Primera%20Entrega/3.%20Process%20Description/Individual%20Contribution%20Metric.md)
+
+#Video
+
+https://alumnosuady-my.sharepoint.com/:v:/g/personal/a19203731_alumnos_uady_mx/Eb_iCqTPoL5Gl1Sn6oZBrSQBZ8hrlvhKUMsrC0VUNkLRvg?e=0U2yI2
