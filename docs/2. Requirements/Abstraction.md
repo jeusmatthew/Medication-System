@@ -3,9 +3,9 @@
 ## Class Diagram
 
 ```mermaid
-    classDiagram
+classDiagram
     direction LR
-    UserMedicationList "1" ..> "*" MedicamentReminder
+    UserMedication "1" ..> "*" MedicamentReminder
     MedicamentReminder "1" ..> "*" MedicamentAlarm 
     MedicamentReminder "1" ..> "1" Dosage
     MedicamentReminder "1" ..> "1" Medicament
@@ -14,14 +14,19 @@
     Dosage <|.. DosagePerDay
 
 
-    class UserMedicationList{
+    class UserMedication{
         List MedicamentReminder
 
+        %% CRUD
         addMedicament()
+        removeMedicament(MedicamentReminder)
+        updateMedication(MedicamentReminder)
         getMedicament(int) MedicamentReminder
         setMedicament(MedicamentReminder)
-        removeMedicament(MedicamentReminder)
 
+        registerObserver(Observer)
+        removeObserver(Observer)
+        notifyObservers()
     }
 
     class MedicamentReminder{
@@ -31,13 +36,18 @@
 
         initialize(Dosage, Medicament) 
 
+        %% CRUD ALARMS
+        %% Create
         addAlarm(Alarm)
+        %% Read
         ringAlarm()
 
+        %% Update
         setAllAlarmActive(boolean)
         setAllAlarmMessage(String)
         setAllAlarmTime(LocalDateTime)
         
+        %% Delete
         removeAlarm(Alarm)
 
         getDosage() Dosage
@@ -98,5 +108,52 @@
         String compuesto
     }
 
+%% MVC
+    Osbervable <|.. UserMedication
+    Observer <|.. ConsoleView
+
+    UserMedication<..UserMedicationController
+    ConsoleView<..>UserMedicationController
+
+    ConsoleView..>UserMedication
+
+
+    class Osbervable {
+        registerObserver(Observer)
+        removeObserver(Observer)
+        notifyObservers()
+    }
+    <<interface>> Osbervable
+
+    class Observer{
+        updateList()
+    }
+    <<interface>> Observer
+
+    class UserMedicationController{
+        UserMedication model
+        ConsoleView view
+
+        UserMedicationController(UserMedication)
+
+        addMedicament(MedicamentReminder)
+        removeMedicament(MedicamentReminder)
+        updateMedication(MedicamentReminder)
+        getMedicament(int) MedicamentReminder
+        setMedicament(MedicamentReminder)
+
+    }
+
+    class ConsoleView{
+        UserMedication model
+        UserMedicationController controller
+
+        ConsoleView(UserMedication, UserMedicationController)
+
+        dismissAlarm()
+        getUserInput()
+        printMenu()
+        updateList()
+    }
 
 ```
