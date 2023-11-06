@@ -4,57 +4,105 @@
 
 ```mermaid
     classDiagram
-    class AlarmSystem {
-        
-    }
-
-    class CalendarSystem{
-
-    }
-
-
-    class SearchSystem{
-
-    }
-
-    class Medicament {
-
-    }
-
-    class Alarm{
-
-    }
-
-    class Database{
-
-    }
-
-    class Calendar{
-
-    }
-
-    class MedicamentDosage{
-
-    }
-
-
-    AlarmSystem"1"..>"*"Alarm
-    Database"1"..>"*"Medicament
-
+    direction LR
+    UserMedicationList "1" ..> "*" MedicamentReminder
+    MedicamentReminder "1" ..> "*" MedicamentAlarm 
+    MedicamentReminder "1" ..> "1" Dosage
+    MedicamentReminder "1" ..> "1" Medicament
     
+    Dosage <|.. DosagePerHour
+    Dosage <|.. DosagePerDay
 
-    CalendarSystem"1"..>"*"Calendar
 
-    Alarm..>MedicamentDosage
+    class UserMedicationList{
+        List MedicamentReminder
 
-    AlarmSystem--CalendarSystem
+        %% CRUD
+        addMedicament()
+        getMedicament(int) MedicamentReminder
+        setMedicament(MedicamentReminder)
+        removeMedicament(MedicamentReminder)
 
-    %% App..>AlarmSystem
-    %% App..>Database
-    %% App..>SearchSystem
-    %% App..>CalendarSystem
+    }
 
-    MedicamentDosage..>Medicament
+    class MedicamentReminder{
+        List alarms
+        Medicament medicament
+        Dosage dosage
 
-    SearchSystem--Database
+        initialize(Dosage, Medicament) 
+
+        %% CRUD ALARMS
+        %% Create
+        addAlarm(Alarm)
+        %% Read
+        ringAlarm()
+
+        %% Update
+        setAllAlarmActive(boolean)
+        setAllAlarmMessage(String)
+        setAllAlarmTime(LocalDateTime)
+        
+        %% Delete
+        removeAlarm(Alarm)
+
+        getDosage() Dosage
+        setDosage(Dosage) 
+
+        getMedicament() Medicament
+    }
+
+    class MedicamentAlarm{
+        boolean active
+        String message
+        LocalDateTime time
+
+        ring()
+        dismiss() 
+
+        isActive() boolean
+        setActive(boolean)
+
+        getMessage() String
+        setMessage(String)
+
+        getTime() LocalDateTime
+        setTime(LocalDateTime) 
+    }
+
+
+    class Dosage{
+        getTakePeriod() int
+    }
+
+    <<interface>> Dosage
+
+    class DosagePerHour{
+        int hours
+        int days
+
+        DosagePerHour(int, int)
+
+        getHours() int
+        getDays() int
+
+        getTakePeriod() int
+    }
+
+    class DosagePerDay{
+        int days
+
+        DosagePerDay(int)
+        getDays() int
+
+        getTakePeriod() int
+    }
+
+    class Medicament{
+        String name
+        String description
+        String compuesto
+    }
+
+
 ```
