@@ -17,7 +17,6 @@
     class UserMedicationList{
         List MedicamentReminder
 
-        %% CRUD
         addMedicament()
         getMedicament(int) MedicamentReminder
         setMedicament(MedicamentReminder)
@@ -32,18 +31,13 @@
 
         initialize(Dosage, Medicament) 
 
-        %% CRUD ALARMS
-        %% Create
         addAlarm(Alarm)
-        %% Read
         ringAlarm()
 
-        %% Update
         setAllAlarmActive(boolean)
         setAllAlarmMessage(String)
         setAllAlarmTime(LocalDateTime)
         
-        %% Delete
         removeAlarm(Alarm)
 
         getDosage() Dosage
