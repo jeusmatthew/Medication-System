@@ -22,8 +22,7 @@ classDiagram
         updateMedication(MedicamentReminder)
         getMedicaments() MedicamentReminder 
         setMedicaments(MedicamentReminder)
-
-        @overwrite
+        
         registerObserver(Observer)
         removeObserver(Observer)
         notifyObservers()
