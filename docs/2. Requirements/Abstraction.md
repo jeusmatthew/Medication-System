@@ -17,7 +17,6 @@ classDiagram
     class UserMedication{
         List MedicamentReminder
 
-        %% CRUD
         addMedicament()
         removeMedicament(MedicamentReminder)
         updateMedication(MedicamentReminder)
@@ -36,18 +35,13 @@ classDiagram
 
         initialize(Dosage, Medicament) 
 
-        %% CRUD ALARMS
-        %% Create
         addAlarm(Alarm)
-        %% Read
         ringAlarm()
 
-        %% Update
         setAllAlarmActive(boolean)
         setAllAlarmMessage(String)
         setAllAlarmTime(LocalDateTime)
         
-        %% Delete
         removeAlarm(Alarm)
 
         getDosage() Dosage
@@ -108,7 +102,6 @@ classDiagram
         String compuesto
     }
 
-%% MVC
     Osbervable <|.. UserMedication
     Observer <|.. ConsoleView
 
