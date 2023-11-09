@@ -22,7 +22,7 @@ classDiagram
         updateMedication(MedicamentReminder)
         getMedicaments() MedicamentReminder 
         setMedicaments(MedicamentReminder)
-        
+
         registerObserver(Observer)
         removeObserver(Observer)
         notifyObservers()
@@ -103,6 +103,14 @@ classDiagram
         String name
         String description
         String compuesto
+
+        getName() String
+        setName(String)
+        getDescription() String
+        setDescription(String) 
+        getCompuesto() String
+        setCompuesto(String) 
+
     }
 
     Osbervable <|.. UserMedication
