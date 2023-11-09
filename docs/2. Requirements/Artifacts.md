@@ -34,7 +34,7 @@ classDiagram
         Medicament medicament
         Dosage dosage
 
-        initialize(Dosage, Medicament) 
+        MedicamentReminder(Dosage, Medicament) 
 
         addAlarm(Alarm)
         ringAlarm()
@@ -161,13 +161,13 @@ classDiagram
 
 ![alt](assets/userUC.svg)
 
-### Alarm system
+### User Medication
 
-![text](assets/alarmUC.svg)
+![alt](assets/UserMed.svg)
 
-### Calendar system
+### Medicament Reminder
 
-![text](assets/calendarUC.svg)
+![alt](assets/medReminder.svg)
 
 ### Search system
 
