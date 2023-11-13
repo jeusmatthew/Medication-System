@@ -80,7 +80,7 @@ Users will be able to access this information anytime, anywhere through an intui
 
 - [Updated functional requirements](/docs/2.%20Requirements/Functional%20requirements.md)
 - [Updated artifacts](/docs/2.%20Requirements/Artifacts.md)
-- [Code repository](/Dosewise-code/)
+- [Code repository](https://github.com/jeusmatthew/Dosewise-code/tree/ade9bad16ca5958fe04206af5dccd328e5efeb64)
 
 ### Improved process
 
@@ -88,4 +88,4 @@ Users will be able to access this information anytime, anywhere through an intui
 
 ### Progress presentation
 
-<a href="https://youtu.be/hW6b2gJt6_k" target="_blank">Video</a>
+[Video link](https://youtu.be/hW6b2gJt6_k)
