@@ -72,5 +72,19 @@ Users will be able to access this information anytime, anywhere through an intui
 
 - [Lista de cotejo.xlsx](/First%20assigment/Lista%20de%20cotejo.xlsx)
 
-
 ## Second Assigment
+
+- [Product's Changes](docs/1.%20Product/Product's%20Changes.md)
+
+### Requirements and Design
+
+- [Updated functional requirements](/docs/2.%20Requirements/Functional%20requirements.md)
+- [Updated artifacts](/docs/2.%20Requirements/Artifacts.md)
+
+### Improved process
+
+- [New Daily Scrums](/docs/3.%20Process%20Description/Scrum/Daily-Scrum's/)
+
+### Progress presentation
+
+- [Video](https://youtu.be/hW6b2gJt6_k)
