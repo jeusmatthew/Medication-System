@@ -70,7 +70,7 @@ Users will be able to access this information anytime, anywhere through an intui
 
 ### Lista de cotejo
 
-- [Lista de cotejo.xlsx](https://github.com/jeusmatthew/Medication-System/blob/c8a828194a06eddbd8913d12d853d00f79d13ec6/Primera%20Entrega/Lista%20de%20cotejo.xlsx)
+- [Lista de cotejo.xlsx](/First%20assigment/Lista%20de%20cotejo.xlsx)
 
 
 ## Second Assigment
