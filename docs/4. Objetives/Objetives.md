@@ -12,4 +12,4 @@
 | 4. **Enhance treatment adherence:** Assist users in taking their medications as prescribed, reducing missed doses and errors. |
 | 5. **Empower users to make informed health decisions:** Supply comprehensive medication information to help users better understand their treatments and make informed choices about their health. |
 
-These specific objectives are crucial for developing MediCare Calendar and ensuring it serves as a comprehensive and effective tool for managing medical treatments and promoting better health.
+These specific objectives are crucial for developing DoseWise and ensuring it serves as a comprehensive and effective tool for managing medical treatments and promoting better health.
