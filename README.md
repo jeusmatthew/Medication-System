@@ -1,6 +1,7 @@
 # Medication-System
 
 ## Application Name
+
 DoseWise
 
 ## Introduction
@@ -42,4 +43,49 @@ Users will be able to access this information anytime, anywhere through an intui
 5. Extensive PLM VADECUM Database:
     We will integrate an extensive PLM VADECUM database containing up-to-date information on a wide variety of medications. This will ensure that users have access to accurate and reliable data about their medications.
 
+## First Assignment
 
+### Product
+
+- [Project Description](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/1.%20Product/Software%20Description.md)
+- [Value of the Proposal](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/1.%20Product/Value%20of%20the%20Proposal.md)
+
+### Requirements
+
+- [Functional Requirements](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/2.%20Requirements/Functional%20requirements.md)
+- [Non Functional Requirements](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/2.%20Requirements/Non%20functional%20Requirements.md)
+- [Artifacts](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/2.%20Requirements/Artifacts.md)
+- [Abstraction](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/2.%20Requirements/Abstraction.md)
+- [Priorization](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/2.%20Requirements/Priorization.md)
+
+### Process
+
+- [Process Description](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/3.%20Process%20Description/Process%20Description.md)
+- [Project Management](https://github.com/jeusmatthew/Medication-System/tree/1st-submission/docs/3.%20Process%20Description/Scrum/Daily-Scrum's)
+- [Individual Contribution Metrics](https://github.com/jeusmatthew/Medication-System/blob/1st-submission/docs/3.%20Process%20Description/Individual%20Contribution%20Metric.md)
+
+### Video
+
+- [Evidence](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a19203731_alumnos_uady_mx/Eb_iCqTPoL5Gl1Sn6oZBrSQBZ8hrlvhKUMsrC0VUNkLRvg?e=0U2yI2)
+
+### Lista de cotejo
+
+- [Lista de cotejo.xlsx](/First%20assigment/Lista%20de%20cotejo.xlsx)
+
+## Second Assigment
+
+- [Product's Changes](docs/1.%20Product/Product's%20Changes.md)
+
+### Requirements and Design
+
+- [Updated functional requirements](/docs/2.%20Requirements/Functional%20requirements.md)
+- [Updated artifacts](/docs/2.%20Requirements/Artifacts.md)
+- [Code repository](https://github.com/jeusmatthew/Dosewise-code/tree/ade9bad16ca5958fe04206af5dccd328e5efeb64)
+
+### Improved process
+
+- [New Daily Scrums](/docs/3.%20Process%20Description/Scrum/Daily-Scrum's/)
+
+### Progress presentation
+
+[Video link](https://youtu.be/hW6b2gJt6_k)
