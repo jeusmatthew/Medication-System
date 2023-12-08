@@ -18,28 +18,31 @@
 - Jesús Mateo Ortiz Chay.
 
 ## Summary of the day:
-Evaluation of options for the user interface of the desktop prototype and choice of Java and Swing.
+  Conducted research on various user interface options for the desktop prototype to identify a solution that offers an intuitive and efficient development experience.
 
-**Context:**
-During phase 3, the team recognised the importance of a robust and interactive user interface for the desktop prototype. A review of the available options was carried out, with intuitiveness and development efficiency as key criteria.
+- **Context:**
+  Recognizing the importance of a robust and user-friendly interface for the desktop prototype, the team initiated a thorough investigation into available options. The primary goal was to select a technology that aligns with the project's objectives of providing an intuitive and efficient development experience.
 
-**Expected results:**
+- **Expected Outcomes:**
+  - Exploration of different user interface technologies for desktop applications.
+  - Identification of options that prioritize intuitiveness and efficiency in development.
+  - Informed decision on the most suitable user interface technology for the desktop prototype.
 
-- Development of an intuitive user interface.
-- Efficiency in the implementation of interface features.
-- Improved overall user and development team experience.
+- **Actions Taken:**
+  - Research on available user interface technologies, including Java Swing.
+  - Evaluation of the advantages and disadvantages of each technology.
+  - Team discussions and consideration of factors such as development speed and ease of use.
 
-**Actions Taken:**
-- Selection of Java and Swing as technologies for the user interface of the desktop prototype.
-- Initiation of training sessions for the team in Java and Swing if required.
+- **Results:**
+  - Decision to choose Java and Swing as the user interface technology for the desktop prototype.
+  - The selection is based on the perceived advantages of Java and Swing in providing an intuitive and efficient development experience.
 
-**Project Impact:**
+- **Impact on the Project:**
+  The choice of Java and Swing is expected to contribute to the development of a user-friendly and efficient desktop prototype. This decision aligns with the project's commitment to delivering a positive user experience and streamlining the development process.
 
-The choice of Java and Swing is intended to facilitate the development of a robust and enjoyable user interface. It is hoped that this decision will contribute to a more efficient and engaging development experience for the team and ultimately the end users.
+- **Next Steps:**
+  - Integration of Java and Swing into the development environment.
+  - Implementation of training sessions for team members on Java and Swing.
+  - Continuous monitoring of the impact of the chosen user interface technology on development progress.
 
-**Next Steps:**
-
-Integration of Java and Swing into the development environment.
-Implementation of training sessions as required.
-Track impact on development efficiency and user interface quality.
-This strategic choice reflects the team's attention to the user experience and its commitment to selecting technologies that improve both development efficiency and the quality of the final product.
+This strategic decision reflects the team's dedication to selecting technologies that not only meet functional requirements but also enhance the development experience, ultimately contributing to the success of the desktop prototype.

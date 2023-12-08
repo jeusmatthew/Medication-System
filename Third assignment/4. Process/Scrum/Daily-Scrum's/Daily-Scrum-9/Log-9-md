@@ -21,55 +21,31 @@
   
 
 ## Summary of the day:
+  Comprehensive assessment of the current development tools, specifically Android Studio, with the aim of enhancing efficiency and reducing the learning curve.
 
-Evaluation of development tools and decision making on switching from Android Studio to Java and NetBeans for the development of the desktop prototype.
+- **Context:**
+  Recognizing challenges in the current development environment, the team initiated an evaluation of the tools in use. The focus was on addressing concerns related to efficiency and the steep learning curve associated with Android Studio.
 
-  
+- **Expected Outcomes:**
+  - Identification of limitations and challenges in Android Studio.
+  - Exploration of alternative tools to mitigate efficiency and learning curve issues.
+  - Decision-making on transitioning to more suitable development tools.
 
-**Context**
+- **Actions Taken:**
+  - In-depth analysis of Android Studio's performance and usability.
+  - Evaluation of alternative development tools, including Java and NetBeans.
+  - Team discussions and consideration of feedback regarding the tool transition.
 
-  
+- **Results:**
+  - Decision to transition from Android Studio to Java and NetBeans for the desktop prototype.
+  - The choice is based on considerations of improved efficiency and a more manageable learning curve.
 
-During phase 3, the team conducted a thorough review of the development tools used so far. Challenges in efficiency and a considerable learning curve associated with Android Studio were noted. The decision was based on the search for a more intuitive and efficient solution to ensure the project deadlines were met.
+- **Impact on the Project:**
+  The decision to transition tools aims to create a more conducive development environment, promoting efficiency and reducing challenges associated with the learning process. This strategic move anticipates improved productivity and a positive impact on the development team.
 
-  
+- **Next Steps:**
+  - Planning and communication of the tool transition process.
+  - Organization of training sessions for team members on Java and NetBeans.
+  - Continuous monitoring of the impact of the tool transition on development efficiency.
 
-**Expected Results:**
-
-- Increased efficiency in the development of the desktop prototype.
-
-- Reduced learning curve for the development team.
-
-- Improved overall development experience.
-
-  
-
-**Actions Taken:**
-
-  
-
--  **Selection of Java and NetBeans.**
-
-- Selection of Java and NetBeans as new tools for desktop prototype development.
-
-- Scheduled training sessions to ensure smooth transition of the team to the new tools.
-
-  
-
-**Project Impact:**
-
-- The decision aims to improve the team's productivity by simplifying the development process. It is expected that this transition will contribute to a more efficient delivery of the desktop prototype and ultimately to the achievement of the project objectives.
-
-  
-
-**Next Steps:**
-
-- Implementation of training sessions for the team.
-
-- Adjust development environments according to the new tools.
-
-- Continuous monitoring of the impact on development efficiency.
-
-  
-
-This strategic shift in development tools reflects the team's commitment to constant improvement and adaptability to overcome challenges identified during project execution.
+This decision reflects the team's commitment to adapting and optimizing the development process for improved outcomes. The transition from Android Studio to Java and NetBeans is expected to positively influence the team's efficiency and contribute to a smoother development experience.
