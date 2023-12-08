@@ -10,7 +10,6 @@ As the development process progresses, it is crucial to establish effective trac
 
 Verification and validation are critical steps in ensuring the successful implementation of requirements. Verification focuses on confirming that requirements have been implemented correctly, while validation ensures that the requirements truly satisfy customer needs. Both processes are essential to ensure the quality and compliance of the software with established requirements.
 
-In summary, effective requirement management is vital for successful software development projects. Understanding both functional and non-functional requirements and establishing traceability throughout the development lifecycle are key practices. The proper implementation of requirements, along with thorough verification and validation processes, ensures that the software meets customer expectations and quality standards.
 
 ## Artifact
 
@@ -39,4 +38,4 @@ In summary, effective requirement management is vital for successful software de
 | RNF-11 | Implement measures to ensure discreet handling of sensitive medical information, preventing unauthorized access or disclosure. | Approved | [08/12/2023] |
 | RNF-12 | The system implements the MVC pattern. | Approved | [08/12/2023] |
 
-En resumen, la correspondencia efectiva de los requisitos a lo largo del desarrollo del software es esencial para el éxito del proyecto. La comprensión clara de los requisitos funcionales y no funcionales, junto con una gestión cuidadosa de la trazabilidad, cambios y validación, contribuye a la creación de un producto final que cumple con las expectativas del cliente y se alinea con los objetivos del proyecto. La implementación integral de los requisitos no solo es una práctica recomendada, sino que también es un requisito fundamental para el desarrollo exitoso de software.
+In summary, effective requirement management is vital for successful software development projects. Understanding both functional and non-functional requirements and establishing traceability throughout the development lifecycle are key practices. The proper implementation of requirements, along with thorough verification and validation processes, ensures that the software meets customer expectations and quality standards.
