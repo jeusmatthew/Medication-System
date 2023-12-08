@@ -1,4 +1,4 @@
-# Correspondence with requirements
+# Verification of functional and non-functional requirements
 
 Effective requirement management in software development is crucial to ensure project success. Requirements can be classified into two main categories: functional and non-functional. Both types play a critical role in defining the features and behavior of the final system, contributing to the achievement of established objectives. It is essential to understand the correspondence of these requirements throughout the entire software development lifecycle, from project conception to the implementation of the final product.
 
