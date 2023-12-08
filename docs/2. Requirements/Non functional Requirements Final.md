@@ -21,3 +21,4 @@ ID|Requirement Description|MoSCoW Priority
 --- | ------------------------------------ | ---------
 RNF-10 colaboration|The system should facilitate integration with external healthcare systems for seamless information exchange.|Must
 RNF-11 discretion|Implement measures to ensure discreet handling of sensitive medical information, preventing unauthorized access or disclosure.|Must
+RNF-12 design|The system implements the MVC pattern.|Must
