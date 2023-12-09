@@ -134,6 +134,7 @@ ID|Requirement Description|MoSCoW Priority
 --- | ------------------------------------ | ---------
 RNF-10 colaboration|The system should facilitate integration with external healthcare systems for seamless information exchange.|Must
 RNF-11 discretion|Implement measures to ensure discreet handling of sensitive medical information, preventing unauthorized access or disclosure.|Must
+| RNF-12 design | The system implements the MVC pattern. | Must
 
 
 The modified set of Non-Functional Requirements (NFRs) underscores our ability to effectively adapt to project realities while maintaining an ongoing commitment to delivering a product that satisfies essential user needs and quality expectations. Through this conscious evolution of non-functional requirements, we aim to ensure that the final product is not only viable within the project context but also efficient, secure, and capable of providing a satisfactory experience for end-users.
