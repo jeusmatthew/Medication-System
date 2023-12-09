@@ -1,28 +1,16 @@
 | Date       | RAUL MAGAÑA                        | JIMENA GARCIA                  | MATEO ORTIZ                        |
 |------------|-----------------------------------|-------------------------------|-----------------------------------|
-| 09/25/2023 | - General objective.              | - Specific objectives.        |- GitHub organization.  |
-|            | - Background.                     | - Product description (progress).    | - Non-functional requirements (progress). |
-|            | - Daily log writing for today.    |                               |                                   |
-| 09/26/2023 | - Functional requirements (progress). | - Product description.     | - Non-functional requirements (progress).   |
-|            | - Daily log writing for the day.  | - Process description (progress). | - Artifacts (progress).             |
-| 09/27/2023 | - Completion of functional requirements. | - Completion of product description. |  - Completion of non-functional requirements. |
-|            | - Prioritization of functional requirements. |  - Daily log writing for today.                       | - Prioritization of non-functional requirements.     |
-|            |                                   |  - Completion of process description.|  |
-| 09/28/2023 | - Class abstraction.               | - Class abstraction.           | - Class abstraction.                  |
-|            | - Progress presentation (progress). | - Daily log writing for today. | - Completion of artifacts.           |
-| 10/01/2023 | - Functional requirements gathering (part 2). | - Finalizing product description. | - Prioritization of non-functional requirements. |
-|            | - Detailed database schema design. | - Process description refinement. | - Artifacts creation and review.   |
-|            | - Daily log writing for today.    |                               |                                   |
-| 10/15/2023 | - Class abstraction and design.    | - Product description review. | - Integration testing (H2 database). |
-|            | - Initial artifact creation.       | - Progress presentation preparation. | - Integration testing (SQLite database). |
-|            | - Daily log writing for today.    |                               |                                   |
-| 11/01/2023 | - Functional requirements completion. | - Product description finalization. | - Non-functional requirements completion. |
-|            | - User interface prototyping.      | - Daily log writing for today.| - Prioritization of new requirements. |
-|            | - Bug fixing (H2 database).        | - Bug fixing.                 | - Bug fixing (SQLite database).     |
-| 11/15/2023 | - User acceptance testing (H2 database). | - User acceptance testing.  | - User acceptance testing (SQLite database). |
-|            | - Daily log writing for today.    |                               |                                   |
-| 12/01/2023 | - Documentation finalization.      | - Project completion report drafting. | - Final presentation preparation.   |
-|            | - Final bug fixing.               | - Daily log writing for today.| - Final preparation for presentation. |
-|            | - Project review meeting.          | - Finalizing project completion report. | - Final presentation rehearsal.    |
-| 12/15/2023 | - Project completion and handover. | - Final presentation.         | - Celebration and team reflection. |
-|            | - Final documentation review.     |                               |                                   |
+| 11/25/2023 | Planning for transition to Java and NetBeans, Daily log | Research on Java and Swing for UI prototyping, Daily log | Investigation of cloud-based relational databases, Daily log |
+| 11/26/2023 | Implementing Class Abstraction in Java, Daily log | Refinement of Product Description, Daily log | Initial testing with H2 database for data management, Daily log |
+| 11/27/2023 | Integration of MVC pattern in Java, Daily log | Process Description refinement, Daily log | Prioritization of non-functional requirements, Daily log |
+| 11/28/2023 | Progress presentation preparation in Java, Daily log | - | Completion of artifacts for Java implementation, Daily log |
+| 11/29/2023 | Finalizing H2 database testing, Daily log | User Interface prototyping in Java, Daily log | Integration testing with SQLite for user-specific data, Daily log |
+| 11/30/2023 | Bug fixing and optimization in Java, Daily log | Finalizing Product Description, Daily log | Prioritization of new requirements, Daily log |
+| 12/01/2023 | Documentation finalization in Java, Daily log | Finalizing Project Completion Report, Daily log | Final presentation preparation in Java, Daily log |
+| 12/02/2023 | Review and reflection on Java implementation, Daily log | Review and reflection on Project Completion Report, Daily log | Review and reflection on final presentation preparation, Daily log |
+| 12/03/2023 | Team celebration event, Daily log | Team celebration event, Daily log | Team celebration event, Daily log |
+| 12/04/2023 | Task assignment for December, Daily log | UI design refinement, Daily log | Database integration planning, Daily log |
+| 12/05/2023 | Code implementation for assigned tasks, Daily log | Testing of UI improvements, Daily log | Implementation of cloud-based database, Daily log |
+| 12/06/2023 | Debugging and code optimization, Daily log | User feedback analysis, Daily log | Integration of user feedback, Daily log |
+| 12/07/2023 | Collaboration meeting for code review, Daily log | User testing and feedback analysis, Daily log | Integration of user feedback, Daily log |
+| 12/08/2023 | Finalizing code changes, Daily log | Finalizing UI improvements, Daily log | Finalizing database integration, Daily log |
