@@ -10,3 +10,19 @@
 |            |                                   |  - Completion of process description.|  |
 | 09/28/2023 | - Class abstraction.               | - Class abstraction.           | - Class abstraction.                  |
 |            | - Progress presentation (progress). | - Daily log writing for today. | - Completion of artifacts.           |
+| 10/01/2023 | - Functional requirements gathering (part 2). | - Finalizing product description. | - Prioritization of non-functional requirements. |
+|            | - Detailed database schema design. | - Process description refinement. | - Artifacts creation and review.   |
+|            | - Daily log writing for today.    |                               |                                   |
+| 10/15/2023 | - Class abstraction and design.    | - Product description review. | - Integration testing (H2 database). |
+|            | - Initial artifact creation.       | - Progress presentation preparation. | - Integration testing (SQLite database). |
+|            | - Daily log writing for today.    |                               |                                   |
+| 11/01/2023 | - Functional requirements completion. | - Product description finalization. | - Non-functional requirements completion. |
+|            | - User interface prototyping.      | - Daily log writing for today.| - Prioritization of new requirements. |
+|            | - Bug fixing (H2 database).        | - Bug fixing.                 | - Bug fixing (SQLite database).     |
+| 11/15/2023 | - User acceptance testing (H2 database). | - User acceptance testing.  | - User acceptance testing (SQLite database). |
+|            | - Daily log writing for today.    |                               |                                   |
+| 12/01/2023 | - Documentation finalization.      | - Project completion report drafting. | - Final presentation preparation.   |
+|            | - Final bug fixing.               | - Daily log writing for today.| - Final preparation for presentation. |
+|            | - Project review meeting.          | - Finalizing project completion report. | - Final presentation rehearsal.    |
+| 12/15/2023 | - Project completion and handover. | - Final presentation.         | - Celebration and team reflection. |
+|            | - Final documentation review.     |                               |                                   |
