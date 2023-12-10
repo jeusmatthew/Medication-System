@@ -1,80 +1,83 @@
-# Cambios y Desarrollos a lo Largo de las Fases
+# Changes and Developments Throughout Phases
 
-## Fase 1: Descripción Inicial del Proyecto
+## Phase 1: Initial Project Description
 
-### Objetivo General:
-- Facilitar la gestión de medicamentos y el monitoreo preciso de tratamientos médicos.
-- Mejorar la adherencia a los medicamentos mediante información médica confiable.
+### Overall Objective:
+- Facilitate medication management and precise monitoring of medical treatments.
+- Improve adherence to medications through reliable medical information.
 
-### Descripción del Proyecto:
-1. *Acceso Eficiente a Información Crucial:*
-   - Proporcionar fácil acceso a información vital sobre medicamentos.
-   - Aplicación móvil e interfaz web para acceso en cualquier momento y lugar.
+### Project Description:
+1. *Efficient Access to Crucial Information:*
+   - Provide easy access to vital information about medications.
+   - Mobile app and web interface for access anytime, anywhere.
 
-2. *Registro Histórico Integral:*
-   - Mantener registros históricos detallados de medicamentos pasados y actuales.
-   - Facilitar el seguimiento preciso de la evolución del tratamiento.
+2. *Comprehensive Historical Records:*
+   - Maintain detailed historical records of past and current medications.
+   - Facilitate precise tracking of treatment evolution.
 
-3. *Recordatorios Personalizados:*
-   - Recordatorios configurables para garantizar la administración oportuna de medicamentos.
-   - Alertas por dosis no administradas.
+3. *Personalized Reminders:*
+   - Configurable reminders to ensure timely medication administration.
+   - Alerts for missed doses.
 
-4. *Base de Datos Extensa PLM VADECUM:*
-   - Integrar una base de datos de medicamentos completa para información precisa.
+4. *Extensive PLM VADECUM Database:*
+   - Integrate a complete medication database for accurate information.
 
-5. *Alcance del Proyecto:*
-   - Interfaz fácil de usar para aplicaciones móviles y web.
-   - Integración de la base de datos PLM VADECUM.
-   - Sistema de seguimiento de medicamentos y dosis.
-   - Recordatorios y notificaciones personalizados.
-   - Desarrollo de una plataforma segura para datos médicos sensibles.
+5. *Project Scope:*
+   - User-friendly interface for mobile and web applications.
+   - Integration of the PLM VADECUM database.
+   - Medication and dose tracking system.
+   - Customized reminders and notifications.
+   - Development of a secure platform for sensitive medical data.
 
-6. *Limitaciones del Proyecto:*
-   - No se proporciona asesoramiento médico ni diagnósticos.
-   - La precisión depende de la base de datos PLM VADECUM.
-   - No reemplaza la consulta médica para condiciones graves.
+6. *Project Limitations:*
+   - No medical advice or diagnoses provided.
+   - Accuracy depends on the PLM VADECUM database.
+   - Does not replace medical consultation for serious conditions.
 
-## Fase 2: Cambios Estratégicos
+## Phase 2: Strategic Changes
 
-### Cambios Evidenciados:
+### Evidenced Changes:
 
-1. *Transición de Herramientas de Desarrollo:*
-   - Cambio de Flutterflow y Android Studio a NetBeans e IntelliJ.
-   - Implementación del patrón de diseño Modelo-Vista-Controlador (MVC).
+1. *Transition of Development Tools:*
+   - Shift from Flutterflow and Android Studio to NetBeans and IntelliJ.
+   - Implementation of the Model-View-Controller (MVC) design pattern.
 
-2. *Requisitos Refinados y Enfocados:*
-   - Consolidación de los requisitos del proyecto en seis tareas clave.
-   - Mayor enfoque en características críticas y valiosas para los usuarios.
+2. *Refined and Focused Requirements:*
+   - Consolidation of project requirements into six key tasks.
+   - Increased focus on critical and valuable features for users.
 
-3. *Rediseño Estratégico de la Estructura del Software:*
-   - Modularización de diagramas de clases y casos de uso para mejorar la legibilidad.
-   - Adaptación de la estructura para una mejor comprensión, escalabilidad y futuras mejoras.
+3. *Strategic Redesign of Software Structure:*
+   - Modularization of class and use case diagrams for improved readability.
+   - Adaptation of structure for better understanding, scalability, and future enhancements.
 
-4. *Implementación del Patrón MVC:*
-   - Adopción del patrón Modelo-Vista-Controlador para responsabilidades más claras.
-   - Demostración prometedora de la estructura y gestión del código.
+4. *Implementation of the MVC Pattern:*
+   - Adoption of the Model-View-Controller pattern for clearer responsibilities.
+   - Promising demonstration of code structure and management.
 
-## Fase 3: Ajustes y Refinamientos Adicionales
+## Phase 3: Additional Adjustments and Refinements
 
-### Cambios Evidenciados:
+### Evidenced Changes:
 
-1. *Cambio en la IDE y Enfoque de Prototipado:*
-   - Cambio de Android Studio a Java y NetBeans para el prototipo de escritorio.
-   - Elección de Java y Swing para una interfaz de usuario sólida e interactiva.
+1. *Change in IDE and Prototyping Approach:*
+   - Shift from Android Studio to Java and NetBeans for desktop prototyping.
+   - Selection of Java and Swing for a robust and interactive user interface.
 
-2. *Ajustes en la Gestión de Datos:*
-   - Uso inicial de H2 para pruebas, con preferencia por una base de datos relacional en la nube.
-   - Consideración de SQLite para datos de medicamentos específicos del usuario.
+2. *Adjustments in Data Management:*
+   - Initial use of H2 for testing, with a preference for a cloud-based relational database.
+   - Consideration of SQLite for user-specific medication data.
 
-3. *Preferencia por Base de Datos en la Nube:*
-   - Énfasis en una base de datos relacional en la nube para almacenamiento escalable y accesible.
-   - SQLite para el almacenamiento local de listas de medicamentos específicos del usuario.
+3. *Preference for Cloud Database:*
+   - Emphasis on a cloud-based relational database for scalable and accessible storage.
+   - SQLite for local storage of user-specific medication lists.
 
-4. *Optimización de la Experiencia del Usuario:*
-   - Elección de Java y Swing para una experiencia de desarrollo intuitiva y eficiente.
-   - Enfoque en un proceso de desarrollo fluido y eficiente para cumplir con los plazos del proyecto.
+4. *Optimization of User Experience:*
+   - Choice of Java and Swing for an intuitive and efficient development experience.
+   - Focus on a smooth and efficient development process to meet project deadlines.
 
-En la fase inicial, el objetivo principal del "Sistema de Gestión de Medicamentos" era mejorar la experiencia del usuario en la administración de medicamentos, asegurando información precisa y recordatorios oportunos. Se enfocó en proporcionar acceso eficiente a detalles cruciales de medicamentos, registros históricos completos y recordatorios personalizados. La integración de la extensa base de datos PLM VADECUM aseguró información actualizada sobre diversos medicamentos. Sin embargo, se destacaron limitaciones importantes, como la falta de asesoramiento médico y la dependencia de la precisión de la base de datos.
-En la segunda fase, se observaron cambios significativos en la estrategia de desarrollo. Se evidenció una transición en las herramientas de desarrollo, abandonando Flutterflow y Android Studio en favor de NetBeans e IntelliJ bajo el patrón MVC. La lista de requisitos del proyecto se refinó, centrándose en seis tareas clave para simplificar la gestión y enfocarse en características críticas. Además, se implementó el patrón MVC para mejorar la estructura del software, facilitando la comprensión y la escalabilidad del proyecto.
-En la fase más reciente, la decisión estratégica de cambiar a Java y NetBeans para el prototipo de escritorio marcó un giro importante en el desarrollo. Este cambio se basó en la percepción de NetBeans como una opción más intuitiva y accesible, con el objetivo de garantizar una experiencia de desarrollo más fluida y eficiente, dada la presión temporal del proyecto y la curva de aprendizaje asociada con Android Studio. Además, se consideró H2 para pruebas iniciales de la base de datos, aunque se destacó la preferencia por una base de datos relacional en la nube para un almacenamiento escalable y accesible.
-Los cambios a lo largo de las fases demuestran una adaptación continua en la estrategia de desarrollo del "Sistema de Gestión de Medicamentos". Desde la optimización de herramientas hasta la refinación de requisitos y ajustes en la gestión de datos, cada modificación ha sido guiada por la búsqueda de una solución más eficiente y centrada en el usuario. Estos cambios refuerzan el compromiso del equipo con la mejora constante y la entrega de un sistema de gestión de medicamentos innovador y efectivo.
+In the initial phase, the primary goal of the "Medication Management System" was to enhance the user experience in medication administration, ensuring accurate information and timely reminders. It focused on providing efficient access to crucial medication details, comprehensive historical records, and personalized reminders. The integration of the extensive PLM VADECUM database ensured up-to-date information on various medications. However, significant limitations were highlighted, such as the lack of medical advice and dependence on the accuracy of the PLM VADECUM database.
+
+In the second phase, significant changes in development strategy were observed. There was evident transition in development tools, abandoning Flutterflow and Android Studio in favor of NetBeans and IntelliJ under the MVC pattern. The project requirements list was refined, focusing on six key tasks to simplify management and concentrate on critical features. Additionally, the MVC pattern was implemented to enhance the software structure, making it more understandable and scalable.
+
+In the most recent phase, the strategic decision to switch to Java and NetBeans for desktop prototyping marked a significant turn in development. This change was based on the perception of NetBeans as a more intuitive and accessible option, with the goal of ensuring a smoother and more efficient development experience, given the project's time pressure and the learning curve associated with Android Studio. Additionally, H2 was considered for initial database testing, though there was a preference for a cloud-based relational database for scalable and accessible storage.
+
+The changes throughout the phases demonstrate a continuous adaptation in the "Medication Management System" development strategy. From optimizing tools to refining requirements and adjusting data management, each modification has been guided by the pursuit of a more efficient and user-centric solution. These changes reinforce the team's commitment to constant improvement and delivering an innovative and effective medication management system.
