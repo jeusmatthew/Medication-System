@@ -2,15 +2,38 @@
 
 ## Use cases
 
-The following use case specifies functional requirement 1, 2 and 5:
+- The following use case specifies functional requirement `1`, `2` and `5`:
 
 ![User use case](./assets/use%20cases-user%20uc.svg)
 
-The following use case specifies functional requirement 3:
+- The following use case specifies functional requirement `3`:
 
 ![AlarmsRoutine use case](./assets/use%20cases-AlarmRoutine.svg)
 
+### Changes
+
+- **Previous User use case:**
+
+-![Previous use cases](/docs/2.%20Requirements/assets/userUC.svg)
+
+The user’s use cases have been changed, adding more things that they can do compared to the previous one that only did a CRUD.
+
+- **Previous AlarmsRoutine use case**
+
+![Previos use case 2](/docs/2.%20Requirements/assets/medReminder.svg)
+
+The actor from MedicamentReminder has been renamed to AlarmsRoutine, because the name AlarmsRoutine is more accurate with what is desired to be analyzed. In addition, its use cases have been reduced.
+
+- **Removed**
+
+The use cases for UserMedication and SearchSystem have been removed because they only added complexity to the project without adding significant value or functionality.
+
+![UserMed use case](/docs/2.%20Requirements/assets/UserMed.svg)
+
+![Search System use case](/docs/2.%20Requirements/assets/searchUC.svg)
+
 ## Class Diagram
+
 ![Class Diagram](https://www.mermaidchart.com/raw/78b1e765-0daf-46ed-970d-19bcba14b194?theme=light&version=v0.1&format=png)
 
 **[Changes](../3.%20Design/Abstraction%20process.md)**
@@ -67,3 +90,7 @@ As a user, I want to view a calendar with highlighted dates for my medication do
 - I can view a monthly calendar that shows highlighted dates for when I should take my medications, visually confirming the highlighting.
 - Medication names are clearly and legibly displayed on the calendar, and visually confirming the readability.
 - I can click on a date in the calendar to view details of the scheduled doses for that day, and verifying the display of details.
+
+### Changes
+
+The user stories have been retained because they accurately reflect the project goals. This is important because it ensures that the project will meet the needs of the users.
